@@ -1,0 +1,27 @@
+{
+    "id": "8B80D6D8",
+    "path": "~/TESIS/preprocessing/main.R",
+    "project_path": "main.R",
+    "type": "r_source",
+    "hash": "1464533191",
+    "contents": "",
+    "dirty": false,
+    "created": 1639685904215.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "133,0",
+        "scrollLine": "40"
+    },
+    "folds": "43|36|108|0|\n",
+    "lastKnownWriteTime": 1643863208,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643863208764,
+    "read_only": false,
+    "read_only_alternatives": []
+}
